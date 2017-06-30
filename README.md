@@ -1,2 +1,2 @@
 # Quine
-A quine in Swift
+https://en.wikipedia.org/wiki/Quine_(computing)
